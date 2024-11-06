@@ -1,0 +1,12 @@
+{
+  "1_0": {
+    "version": "1.0",
+    "pathname": "1_0",
+    "description": "Core Facenet model, No training or optimisations available."
+  },
+  "latest": {
+    "version": "1.0",
+    "pathname": "1_0",
+    "description": "Always use the latest available model version."
+  }
+}
